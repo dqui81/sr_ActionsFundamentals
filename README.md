@@ -71,3 +71,5 @@ Find common terminology for reference [here](./CheatSheet.md)
 Added/Updated this line to test the workflow trigger 
 
 Adding another line to test the [skip-ci] tag
+
+Adding a 3rd line to test the pull request trigger for actions
