@@ -69,3 +69,5 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 Added/Updated this line to test the workflow trigger 
+
+Adding another line to test the [skip-ci] tag
